@@ -1,0 +1,21 @@
+{
+  "name": "reveal-editor",
+  "version": "0.1.0",
+  "description": "An editor for coding demonstrations designed for the HTML presentation platform [reveals.js](https://github.com/hakimel/reveal.js/).",
+  "main": "revealeditor.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidka/RevealEditor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidka/RevealEditor/issues"
+  },
+  "homepage": "https://github.com/davidka/RevealEditor#readme"
+}
